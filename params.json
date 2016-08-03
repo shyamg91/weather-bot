@@ -1,0 +1,6 @@
+{
+  "name": "Weather-bot",
+  "tagline": "A bot to tell you the weather in a particular place",
+  "body": "### Welcome to weather-bot\r\nThis is a bot that I created while I was learning to use the wit.ai framework. It's a pretty simple bot. It's got integrations with the Google geocoder API and Forecast.io . \r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
